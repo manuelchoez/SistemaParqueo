@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Rest.MicroServicioParqueo.Application/1.0.0": {
+        "dependencies": {
+          "Rest.MicroServicioParqueo.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "Rest.MicroServicioParqueo.Application.dll": {}
+        }
+      },
+      "Rest.MicroServicioParqueo.Dominio/1.0.0": {
+        "runtime": {
+          "Rest.MicroServicioParqueo.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rest.MicroServicioParqueo.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Rest.MicroServicioParqueo.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

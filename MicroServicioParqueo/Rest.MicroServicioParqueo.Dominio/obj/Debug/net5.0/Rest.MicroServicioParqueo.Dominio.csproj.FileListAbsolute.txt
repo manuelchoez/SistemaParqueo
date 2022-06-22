@@ -1,0 +1,12 @@
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\bin\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.deps.json
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\bin\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.dll
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\bin\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.pdb
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.csproj.AssemblyReference.cache
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.AssemblyInfoInputs.cache
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.AssemblyInfo.cs
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.csproj.CoreCompileInputs.cache
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.dll
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\refint\Rest.MicroServicioParqueo.Dominio.dll
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.pdb
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Dominio\obj\Debug\net5.0\ref\Rest.MicroServicioParqueo.Dominio.dll

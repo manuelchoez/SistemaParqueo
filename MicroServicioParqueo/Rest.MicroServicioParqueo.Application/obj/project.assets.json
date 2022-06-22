@@ -1,0 +1,98 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Rest.MicroServicioParqueo.Dominio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Rest.MicroServicioParqueo.Dominio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Rest.MicroServicioParqueo.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Rest.MicroServicioParqueo.Dominio/1.0.0": {
+      "type": "project",
+      "path": "../Rest.MicroServicioParqueo.Dominio/Rest.MicroServicioParqueo.Dominio.csproj",
+      "msbuildProject": "../Rest.MicroServicioParqueo.Dominio/Rest.MicroServicioParqueo.Dominio.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Rest.MicroServicioParqueo.Dominio >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Usuario\\.nuget\\packages\\": {},
+    "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Proyectos Manuel Choez\\SistemaParqueo\\MicroServicioParqueo\\Rest.MicroServicioParqueo.Application\\Rest.MicroServicioParqueo.Application.csproj",
+      "projectName": "Rest.MicroServicioParqueo.Application",
+      "projectPath": "E:\\Proyectos Manuel Choez\\SistemaParqueo\\MicroServicioParqueo\\Rest.MicroServicioParqueo.Application\\Rest.MicroServicioParqueo.Application.csproj",
+      "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
+      "outputPath": "E:\\Proyectos Manuel Choez\\SistemaParqueo\\MicroServicioParqueo\\Rest.MicroServicioParqueo.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "E:\\Proyectos Manuel Choez\\SistemaParqueo\\MicroServicioParqueo\\Rest.MicroServicioParqueo.Dominio\\Rest.MicroServicioParqueo.Dominio.csproj": {
+              "projectPath": "E:\\Proyectos Manuel Choez\\SistemaParqueo\\MicroServicioParqueo\\Rest.MicroServicioParqueo.Dominio\\Rest.MicroServicioParqueo.Dominio.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\bin\Debug\net5.0\Rest.MicroServicioParqueo.Application.deps.json
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\bin\Debug\net5.0\Rest.MicroServicioParqueo.Application.dll
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\bin\Debug\net5.0\Rest.MicroServicioParqueo.Application.pdb
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\Rest.MicroServicioParqueo.Application.csproj.AssemblyReference.cache
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\Rest.MicroServicioParqueo.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\Rest.MicroServicioParqueo.Application.AssemblyInfoInputs.cache
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\Rest.MicroServicioParqueo.Application.AssemblyInfo.cs
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\Rest.MicroServicioParqueo.Application.csproj.CoreCompileInputs.cache
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\Rest.MicroServicioParqueo.Application.dll
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\refint\Rest.MicroServicioParqueo.Application.dll
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\Rest.MicroServicioParqueo.Application.pdb
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\ref\Rest.MicroServicioParqueo.Application.dll
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\bin\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.dll
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\bin\Debug\net5.0\Rest.MicroServicioParqueo.Dominio.pdb
+E:\Proyectos Manuel Choez\SistemaParqueo\MicroServicioParqueo\Rest.MicroServicioParqueo.Application\obj\Debug\net5.0\Rest.MicroServicioParqueo.Application.csproj.CopyComplete
