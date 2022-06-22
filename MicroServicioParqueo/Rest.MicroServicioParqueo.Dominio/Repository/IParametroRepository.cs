@@ -9,6 +9,6 @@ namespace Rest.MicroServicioParqueo.Dominio.Repository
 {
     public interface IParametroRepository
     {
-        Task<IEnumerable<Parametro>> 
+        Task<IEnumerable<Parametro>> ConsultarParametros();        
     }
 }

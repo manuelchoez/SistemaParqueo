@@ -10,7 +10,7 @@ namespace Rest.MicroServicioParqueo.Dominio.Repository
     public interface IPersonaRepository
     {
         Task<IEnumerable<Persona>> ConsultarPersonas();
-        Task<Persona> ConsultarPersona(string identificacion);
+        Task<Persona> ConsultarPersona(int idPersona);
         Task<Persona> CrearPersona(Persona persona);
         Task<Persona> ActualizarPersona(Persona persona);
         Task<bool> EliminarPersona(int idPersona);

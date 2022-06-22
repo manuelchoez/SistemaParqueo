@@ -13,7 +13,7 @@ namespace Rest.MicroServicioParqueo.Dominio.Repository
         Task<Ticket> ConsultarTicket(int idTicket);
         Task<Ticket> IngresarTicket(Ticket ticket);
         Task<Ticket> ActualizarTicket(Ticket ticket);
-        Task<Ticket> EliminarTicket(int IdTicket);
+        Task<bool> EliminarTicket(int IdTicket);
 
 
     }
