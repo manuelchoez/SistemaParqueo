@@ -84,7 +84,7 @@ namespace Rest.MicroServicioParqueo.Application.Services
             bool retorno = false;
             try
             {
-                await _vehiculoRepository.EliminarVehiculo(IdVehiculo);
+                retorno = await _vehiculoRepository.EliminarVehiculo(IdVehiculo);
             }
             catch (Exception ex)
             {
